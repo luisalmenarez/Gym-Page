@@ -1,5 +1,10 @@
+import Hero from "@/Components/hero";
 import Image from "next/image";
 
 export default function Home() {
-  return <h1>Landing GYM</h1>;
+  return (
+    <main>
+      <Hero />
+    </main>
+  );
 }
