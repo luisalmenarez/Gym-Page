@@ -30,7 +30,7 @@ const Hero = () => {
             <ButtonPrimary
               type="button"
               text="Ver reseñas"
-              className="border-2 border-primary/50 bg-transparent hover:bg-transparent"
+              className="border-2 border-orange-500/50 bg-transparent hover:bg-transparent"
             />
           </div>
         </div>
