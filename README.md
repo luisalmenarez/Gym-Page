@@ -1,1 +1,1 @@
-# NextJs and TS practice ⚒️
+# NextJS, TS practice ⚒️
