@@ -1,1 +1,1 @@
-# NextJS, TS practicee ⚒️
+# NextJS, TS practice ⚒️
